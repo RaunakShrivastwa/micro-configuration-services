@@ -1,5 +1,7 @@
 
-
+spring:
+  application:
+    name: Config-Default
 eureka:
   instance: prefer-ip-address
   client-register-with-eureka: 'true'
