@@ -1,7 +1,3 @@
-
-spring:
-  application:
-    name: Default-Profile
 eureka:
   instance: prefer-ip-address
   client-register-with-eureka: 'true'
